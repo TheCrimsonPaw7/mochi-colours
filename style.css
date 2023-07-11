@@ -1,0 +1,9 @@
+.body{
+    background:rgb(118, 158, 114);
+}
+
+.head{
+    color:white;
+    display:flex;
+    justify-content:center;
+}
